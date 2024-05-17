@@ -68,5 +68,5 @@ def main():
         else:
             print("Not a valid command. Please try again.\n")
             
-if __name__ == "--main__":
+if __name__ == "__main__":
     main()
